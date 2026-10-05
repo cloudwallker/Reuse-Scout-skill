@@ -10,11 +10,11 @@
 
 [安装](#安装) · [调用](#调用) · [延伸阅读](#延伸阅读)
 
-需要工程研究时手动调用。**默认只研究，不修改目标业务代码。**
+需要工程研究时手动调用。**默认产出研究报告，包含证据、适配建议和验证计划。**
 
 面向 **Codex、Claude Code** 的手动调用流程，维护一份公共技能目录。当前版本为 `0.2.0-preview.1`（预览版），包含功能复用研究、故障调查和离线模式。
 
-参考并面向手动调用整合 [PavedPath Code](https://github.com/Jia-Ethan/pavedpath-code) 与 [ECC search-first](https://github.com/affaan-m/ECC/tree/main/skills/search-first)，未引入完整 ECC，也未证明效果优于上游。固定来源和取舍见 [上游核对](docs/UPSTREAM_REVIEW.md)。
+参考 [PavedPath Code](https://github.com/Jia-Ethan/pavedpath-code) 与 [ECC search-first](https://github.com/affaan-m/ECC/tree/main/skills/search-first) 的研究流程，按手动调用方式整合。固定来源和取舍见 [上游核对](docs/UPSTREAM_REVIEW.md)。
 
 ![Reuse-Scout](docs/images/cartoon-infographic.png)
 

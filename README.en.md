@@ -8,11 +8,11 @@ English | [简体中文](README.md)
 
 [Install](#install) · [Invoke](#invoke) · [Research boundaries](#research-and-output-boundaries)
 
-Invoke Reuse Scout manually when you need engineering research. **By default, it only researches and does not modify your application code.**
+Invoke Reuse Scout manually when you need engineering research. **The default output is a research report with evidence, adaptation advice, and a verification plan.**
 
 Reuse Scout is an instruction-only skill that uses the host's existing tools. One shared skill directory supports feature research, troubleshooting, and offline work. Current version: `0.2.0-preview.1` (preview).
 
-Its workflow draws on [PavedPath Code](https://github.com/Jia-Ethan/pavedpath-code) and [ECC search-first](https://github.com/affaan-m/ECC/tree/main/skills/search-first), adapted for explicit invocation. It does not include the full ECC framework or claim better results than its sources. See the [upstream review](docs/UPSTREAM_REVIEW.md) (Chinese) for pinned references and design choices.
+Its workflow draws on [PavedPath Code](https://github.com/Jia-Ethan/pavedpath-code) and [ECC search-first](https://github.com/affaan-m/ECC/tree/main/skills/search-first), adapted for explicit invocation. See the [upstream review](docs/UPSTREAM_REVIEW.md) (Chinese) for pinned references and design choices.
 
 ![Reuse-Scout](docs/images/cartoon-infographic.png)
 
