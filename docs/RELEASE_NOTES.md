@@ -1,6 +1,6 @@
 # Reuse Scout 0.2.0-preview.1
 
-发布类型：**预发布**。目标仓库：[cloudwallker/Reuse-Scout](https://github.com/cloudwallker/Reuse-Scout)，标签 `v0.2.0-preview.1`。这是第二版迭代；此前源码预览没有创建 GitHub Release。
+发布类型：**预发布**。目标仓库：[cloudwallker/Reuse-Scout-skill](https://github.com/cloudwallker/Reuse-Scout-skill)，标签 `v0.2.0-preview.1`。这是第二版迭代；此前源码预览没有创建 GitHub Release。
 
 ## 本版变化
 
@@ -14,7 +14,7 @@
 
 ## 安装与更新
 
-下载 `reuse-scout-0.2.0-preview.1.zip` 和同名 `.sha256`，核对摘要后安装解压出的完整 `reuse-scout/` 目录。Codex 放入项目的 `.agents/skills/`，Claude Code 放入 `.claude/skills/`；详见[安装说明](https://github.com/cloudwallker/Reuse-Scout/blob/v0.2.0-preview.1/docs/INSTALL.md)。
+下载 `reuse-scout-0.2.0-preview.1.zip` 和同名 `.sha256`，核对摘要后安装解压出的完整 `reuse-scout/` 目录。Codex 放入项目的 `.agents/skills/`，Claude Code 放入 `.claude/skills/`；详见[安装说明](https://github.com/cloudwallker/Reuse-Scout-skill/blob/v0.2.0-preview.1/docs/INSTALL.md)。
 
 更新时先把旧副本完整备份到扫描目录之外，再完整替换并重启宿主，不合并新旧文件。克隆仓库也可从已发布的标签取得同一版本。
 

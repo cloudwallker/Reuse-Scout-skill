@@ -5,7 +5,7 @@
 ## 获取源文件
 
 ```text
-git clone https://github.com/cloudwallker/Reuse-Scout.git
+git clone https://github.com/cloudwallker/Reuse-Scout-skill.git Reuse-Scout
 cd Reuse-Scout
 ```
 

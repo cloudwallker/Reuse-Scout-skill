@@ -19,7 +19,7 @@ Its workflow draws on [PavedPath Code](https://github.com/Jia-Ethan/pavedpath-co
 ## Install
 
 ```text
-git clone https://github.com/cloudwallker/Reuse-Scout.git
+git clone https://github.com/cloudwallker/Reuse-Scout-skill.git Reuse-Scout
 cd Reuse-Scout
 ```
 
